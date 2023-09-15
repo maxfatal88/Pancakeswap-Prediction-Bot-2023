@@ -99,7 +99,7 @@ const GLOBAL_CONFIG = {
          * @default SIGNAL_STRATEGY
          * @type {string}
          */
-        SELECTED_STRATEGY: 'PATTERN_STRATEGY',
+        SELECTED_STRATEGY: 'SIGNAL_STRATEGY',
         /**
          * Time after execute bet strategy when start a new round.
          * @default 265000 in Miliseconds (4.3 Minutes)
@@ -118,7 +118,7 @@ const GLOBAL_CONFIG = {
              * @default false
              * @type {boolean}
              */
-            REVERSE_BETTING: true,
+            REVERSE_BETTING: false,
              /**
              * Defines the minimum percentage threshold of signal accuracy (50% - 100%)
              * @default 55

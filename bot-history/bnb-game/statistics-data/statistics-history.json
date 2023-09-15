@@ -1,10 +1,10 @@
 {
-	"profit_usd": 2.194,
-	"profit_crypto": 0.010302039999999998,
-	"percentage": 66.66666666666667,
-	"win": 2,
-	"loss": 1,
+	"profit_usd": 7.099,
+	"profit_crypto": 0.03345988999999999,
+	"percentage": 70,
+	"win": 7,
+	"loss": 3,
 	"betErrors": 0,
-	"totalTxGasFee": 0.00099,
-	"totalTxGasFeeUsd": 0.211
+	"totalTxGasFee": 0.00423018,
+	"totalTxGasFeeUsd": 0.898
 }
