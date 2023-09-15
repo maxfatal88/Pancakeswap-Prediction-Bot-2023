@@ -1,0 +1,86 @@
+[
+	{
+		"round": 206503,
+		"openPrice": 212.26504873,
+		"closePrice": 212.25324949,
+		"bullAmount": 2.328318068298082,
+		"bearAmount": 1.7733844955561244,
+		"bullPayout": 1.762,
+		"bearPayout": 2.313,
+		"validQuotes": true,
+		"totalAmount": 4.101702563854206,
+		"winner": "bear"
+	},
+	{
+		"round": 206504,
+		"openPrice": 212.25324949,
+		"closePrice": 212.36191,
+		"bullAmount": 2.6919756612334913,
+		"bearAmount": 0.833302052678746,
+		"bullPayout": 1.31,
+		"bearPayout": 4.23,
+		"validQuotes": true,
+		"totalAmount": 3.5252777139122373,
+		"winner": "bull"
+	},
+	{
+		"round": 206505,
+		"openPrice": 212.36191,
+		"closePrice": 212.354302,
+		"bullAmount": 2.019958053581717,
+		"bearAmount": 2.0932208546351987,
+		"bullPayout": 2.036,
+		"bearPayout": 1.965,
+		"validQuotes": true,
+		"totalAmount": 4.1131789082169155,
+		"winner": "bear"
+	},
+	{
+		"round": 206506,
+		"openPrice": 212.354302,
+		"closePrice": 212.3664,
+		"bullAmount": 1.4787644014288794,
+		"bearAmount": 1.319179999629881,
+		"bullPayout": 1.892,
+		"bearPayout": 2.121,
+		"validQuotes": true,
+		"totalAmount": 2.7979444010587606,
+		"winner": "bull"
+	},
+	{
+		"round": 206507,
+		"openPrice": 212.3664,
+		"closePrice": 212.20292955,
+		"bullAmount": 2.1673111602148056,
+		"bearAmount": 2.874533182331569,
+		"bullPayout": 2.326,
+		"bearPayout": 1.754,
+		"validQuotes": true,
+		"totalAmount": 5.041844342546375,
+		"winner": "bear"
+	},
+	{
+		"round": 206508,
+		"openPrice": 212.20292955,
+		"closePrice": 212.03210055,
+		"bullAmount": 1.7148414791337077,
+		"bearAmount": 3.138095209816957,
+		"bullPayout": 2.83,
+		"bearPayout": 1.546,
+		"validQuotes": true,
+		"totalAmount": 4.852936688950664,
+		"winner": "bear"
+	},
+	{
+		"round": 206509,
+		"openPrice": 212.03210055,
+		"closePrice": 212.0715,
+		"bullAmount": 2.183152610563006,
+		"bearAmount": 3.078402960796815,
+		"bullPayout": 2.41,
+		"bearPayout": 1.709,
+		"validQuotes": true,
+		"totalAmount": 5.261555571359821,
+		"winner": "bull"
+	}
+]

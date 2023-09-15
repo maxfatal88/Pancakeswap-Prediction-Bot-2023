@@ -1,0 +1,2989 @@
+{
+	"0xF00326cCe070e80775e6755763E9851F0Fb81436": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.0146327551352167,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.0110784061352167
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.003554349
+			}
+		]
+	},
+	"0xd164271109B303D48767Ef3b987E75f79E45B93C": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.1329407771404709,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.1329407771404709
+			}
+		]
+	},
+	"0xDF735501B4C973435CCdDB8e45FBcb530C98808A": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 0.10241630912874733,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.03241630912874733
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.015
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.015
+			}
+		]
+	},
+	"0x83285a04f523357AA0453e51AA9dB475ddF132D6": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.275,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.15
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.1
+			}
+		]
+	},
+	"0x552954A57138d9426731b68BB51a6069bcd3Ce40": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 0.35,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0x11EbbEc46BB8BFdF7646c02f5eAc42f3B17e575a": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.11750536079207788,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.021391650325832342
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.09611371046624553
+			}
+		]
+	},
+	"0x98971b8f3E28CA0015C5FCe3CF997F981Ece71E4": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 0.3249590776961213,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.03755472986340042
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.04397966423312461
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.0404336722935832
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.055191214110312845
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.05287369092865333
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.04823533666456406
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.04669076960248287
+			}
+		]
+	},
+	"0x011deFad9d1d8E556070b66614Dd0057036b7754": {
+		"roundsPlayed": 12,
+		"totalAmountBetted": 0.7937675901071154,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.07587343066838563
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.07358830478833404
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.07136993997468404
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.06921991881544351
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.06713439829098021
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.06775569724045231
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.06571231065323875
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.06373201837364158
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.061809342152432334
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.05994613892785937
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.05813703909002359
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.05948905113163996
+			}
+		]
+	},
+	"0xE9D45d0892954b9F66DdDF118c1123866A12b807": {
+		"roundsPlayed": 10,
+		"totalAmountBetted": 1.0823031152816358,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.10230311528163574
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.08
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.15
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.25
+			}
+		]
+	},
+	"0x163594666abf2423eADA80bD25Ab9347d6ae3477": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.3,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.04
+			}
+		]
+	},
+	"0xAd4Ee12EAd7DC40d5692983d0E781Cb4BAA1Af2D": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 1.95,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.25
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.6
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.4
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.7
+			}
+		]
+	},
+	"0x69566Fc4C11dBe823c60629A0ee76021d9181a3f": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.05,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bear",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0xbfb14F66fB9126348032467D8E8bD9C7564EE409": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 0.639,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.035
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.121
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.08
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.137
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.125
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.066
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.075
+			}
+		]
+	},
+	"0xB475821a809C3731Be793fC60F40FB56934533db": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.08499999999999999,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.015
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.03
+			}
+		]
+	},
+	"0x8e3B2Dc97eB2AA92EA0Fec4d5f1aA5d2Bf6914DA": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.006222659569266992,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.006222659569266992
+			}
+		]
+	},
+	"0xc210d8FC27Ed427761c5BC378095294f81AAdF0a": {
+		"roundsPlayed": 11,
+		"totalAmountBetted": 1.7844682499599043,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.16119661327757512
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.3693841588089066
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.08269464541497733
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.24197948670884958
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.10478680699817355
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.054530173335113466
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.1226035927540053
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.11981657250055824
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.162428556280537
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.24346423992080551
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.12158340396040275
+			}
+		]
+	},
+	"0x904469d0815f1DA268212Fa7F06316F1270d9Af1": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.5838723086350642,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.5838723086350642
+			}
+		]
+	},
+	"0x77c9dC116F3092AdDA6EE040b02baaeB985bA061": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.1,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0xEda5FF87E95617535953B17E1525EF55b4ABa6B0": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.7070526953453778,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.14991938974159388
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.1004358114992351
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.13239570153035676
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.10063353297259736
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.13465241828091956
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.08901584132067518
+			}
+		]
+	},
+	"0xD8dd294788b393BB643C66094C721744200fd2d8": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 1.7774025446750001,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.2
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.3930744129
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.884328131775
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.3
+			}
+		]
+	},
+	"0x3355826835d11AE787D42a756283611BB5105182": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.18,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.18
+			}
+		]
+	},
+	"0xcE12B6B8BA8d36c0Fb99A3950390829a0fb1684D": {
+		"roundsPlayed": 8,
+		"totalAmountBetted": 0.7999999999999999,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.1
+			}
+		]
+	},
+	"0x0642C8Ccd08234Aa3A1750Bf04Ea55CbCc453dAf": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.10135593729578891,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.042527494427407074
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.04162194952845241
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.017206493339929425
+			}
+		]
+	},
+	"0xaEC20953fdFcA4210a431ECBfb1EA459Dd696C7F": {
+		"roundsPlayed": 8,
+		"totalAmountBetted": 0.7300000000000002,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.08
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.16
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.3
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.07
+			}
+		]
+	},
+	"0xF62B4392b3CB894d9000C8a5fC456fB6Ec199999": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.30000000000000004,
+		"rounds": [
+			{
+				"round": 206535,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.1
+			}
+		]
+	},
+	"0xe79289eD9F6e6623dA89D56699EC6e138317AF2d": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.2841724285456415,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.042143909219946006
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.050683435332674505
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.04793220497037325
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.027
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.04941287902264777
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.067
+			}
+		]
+	},
+	"0xf544954d7910E762Abedd5Cd764d6144899DFF99": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.6412860251950231,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.11253778149431823
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.11940514092309623
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.17277321212522015
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.09766091804845586
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.13890897260393265
+			}
+		]
+	},
+	"0x2C4E80a4BDB0e038dC9e8aB79483aCAe0c8Bb2bD": {
+		"roundsPlayed": 11,
+		"totalAmountBetted": 1.1564388167900785,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.007558376586964818
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.005566660190223614
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.00817139578533542
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.11556506846301264
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.1068983528678571
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.1921641014775023
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.13320775481684527
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.17502089841933924
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.04315502493980645
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.19496200846018064
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.17416917478301114
+			}
+		]
+	},
+	"0x9A647636c5b5EDFe6AAC85E36251820c4f25E5B6": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.053,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.013
+			}
+		]
+	},
+	"0x6F11243f447DB189095287b11a627ec759992dcA": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.10284858522850021,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.10284858522850021
+			}
+		]
+	},
+	"0x830144DcE029bB2bFaD55dFED056e9f7dbdD3476": {
+		"roundsPlayed": 8,
+		"totalAmountBetted": 0.37240134033435934,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.041585898125930165
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.056706833029286446
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.09810394923800786
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.009315182860921678
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.04173972837414755
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.041279939374147555
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.045246388604838324
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.03842342072707978
+			}
+		]
+	},
+	"0x2c20B3573D457C46951E1415Fa2F1D656D316f8B": {
+		"roundsPlayed": 9,
+		"totalAmountBetted": 1.6993822646712013,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.1638757302469291
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.25465038183055794
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.22912581214750216
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.20616365893275196
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.18548776153947674
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.16688941338552907
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.18204179534629308
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.16378804381166379
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.1473596674304974
+			}
+		]
+	},
+	"0x848342E2242fC16cB9448B643b50a67BE89720de": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.005892493650705748,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.005892493650705748
+			}
+		]
+	},
+	"0x5a5e5C737D4eaeBd05152d11DaA852f4737d9da8": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 2.1729686468664173,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bull",
+				"betAmount": 0.491829739946599
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.59
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.5802193582688006
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.38660310420345695
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.12431644444756103
+			}
+		]
+	},
+	"0xc31f3c6dFcFa36e2D2000c96BB9843C30AE427b9": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.14765363221039712,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.03719065076418612
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.11046298144621101
+			}
+		]
+	},
+	"0xDf1cafE8E3c0A6DA88A4eBD306C22c68a669660D": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.02514709048272285,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.02514709048272285
+			}
+		]
+	},
+	"0xa6c41Cdc0AbBB6A8fA3Fa5EF159fb1565e006026": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.2,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.2
+			}
+		]
+	},
+	"0x4aF44C620919e51a10FBB196E9A5FA8bec391958": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.3660517941452559,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.08446738620366025
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.25340215861098075
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.009394081728511038
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.009398496240601503
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.009389671361502348
+			}
+		]
+	},
+	"0xE82630c82e719d882E81Ab4CC4989771cD0C2Ff5": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.09392317996215739,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.009389671361502348
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.028169014084507043
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.009394081728511038
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.028182245185533115
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.009398496240601503
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.009389671361502348
+			}
+		]
+	},
+	"0x243dbEd841F8cf262D3e13C9373CcCaf72f2944A": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.07902401288798819,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.04902401288798818
+			}
+		]
+	},
+	"0xf456598A9B996794A78513F162efBDFfd0Acc800": {
+		"roundsPlayed": 9,
+		"totalAmountBetted": 1.1311003915734341,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.12530634890068038
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.15866744594644058
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.1411714801755107
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.08354405916595277
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.12328162089325076
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.12908291753643747
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.15959486958570365
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.11838142416898435
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.0920702252004732
+			}
+		]
+	},
+	"0x983D6CEA369255cF1B497C6dE8BC04E071d487AD": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.15000000000000002,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0xaea8541DB1673057Bc4dA5E058F5DA0F80adEE60": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 2.47,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.37
+			}
+		]
+	},
+	"0x3B01B489F54f84fb08266B14273F4661fb072da4": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.13,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.02
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.06
+			}
+		]
+	},
+	"0x3DD66078767E814fcf9a367190E50822686738Cb": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.09913453189494245,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.09913453189494245
+			}
+		]
+	},
+	"0x66bCa0cAD0c9071CE571EfCAa5A738C26849eC6a": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.167908965,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.12637821
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.041530755
+			}
+		]
+	},
+	"0xBC4b1e2489DDaBBE2d49EABab723060a48C9D245": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.07500000000000001,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.025
+			}
+		]
+	},
+	"0x39Caf7FD7f2A6AE93a02c10B73BaeB5A56eF9E94": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.07500000000000001,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.025
+			}
+		]
+	},
+	"0x1fd8315e590bC2A1165c4d950813682585FB387c": {
+		"roundsPlayed": 9,
+		"totalAmountBetted": 0.3116332365460428,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.029452861753539568
+			},
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.029722692254255362
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.052105182336022376
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.025990312862946452
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.018484542583989728
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.048457637401535254
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.024791107967683957
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.04881043865384087
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.033818460732229244
+			}
+		]
+	},
+	"0x7C0311848e280666D7DED61a8aD5Fc490B70AeEB": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.12164062782906344,
+		"rounds": [
+			{
+				"round": 206536,
+				"bet": "bear",
+				"betAmount": 0.041612572316460435
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.03798285075168481
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.042045204760918206
+			}
+		]
+	},
+	"0x1795A32a014b862c1C2C5007DcC1a21dA207A2F2": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.007125000000000001,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.007125000000000001
+			}
+		]
+	},
+	"0x1dC355107775ebc1004fcc63722126fbCc6E944F": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.04486051237467006,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.04486051237467006
+			}
+		]
+	},
+	"0x5290916E2649fA43E60E02A4146AB7E15Ed555D9": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.11020453048014081,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.10487058676172326
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.005333943718417558
+			}
+		]
+	},
+	"0x3D370555cd7e5f1cc59F506504BFae7Fa38D1deF": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.3273923632492165,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.12152953397400947
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.20586282927520702
+			}
+		]
+	},
+	"0xDe9b78362c08Dadefd07B33e361546E250B44bE3": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.07049501095394217,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.019636042044383028
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.018576249846470244
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.013610891696555275
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.018671827366533618
+			}
+		]
+	},
+	"0xfDf49E73c49F7C098855656d6C855cfA84d4d933": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.017562031284480053,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.002334013068537837
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.004188905411956663
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.001039112803985554
+			}
+		]
+	},
+	"0x7a953Bfacd14f0D53ADd23BF29822988dE0BB4a7": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 3.929968029375,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 1.08428925
+			},
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 1.6262296305
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 1.219449148875
+			}
+		]
+	},
+	"0x4adCF456E2761a54dE783F59f18912A77506F1Ff": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.3523859616413453,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.174677868302826
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.03888250930397491
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.13882558403454437
+			}
+		]
+	},
+	"0x3477b0bDf5820a101A9a8d58cbC408FC0bBA5143": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.9500000000000001,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.15
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.5
+			}
+		]
+	},
+	"0x8926c47712b68bd5B7827D83F7Df078923886855": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.17921533336089746,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.0315336545
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.03653594282245186
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.013567032683419447
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.04034390905025834
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.027234794304767804
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.03
+			}
+		]
+	},
+	"0x03Fa3c74efA84BcC6D787439fA109B627f527068": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.3425765857025552,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.06855522516538615
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.07960046011137445
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.11114014767188263
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.08328075275391197
+			}
+		]
+	},
+	"0xb3Cd5c80f066d56d631d079A554a98ABa000FD08": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.07,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.04
+			}
+		]
+	},
+	"0x6d86C3A234aE810fFb1b24CBA46259b2367683Ff": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.07500000000000001,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.025
+			}
+		]
+	},
+	"0xa172da45D45B0CE6C46Ec25dCf866c145F0F0e33": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 1.0661936657016926,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.161893879357365
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.12131915801802375
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.1141924887260054
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.21208780147641906
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.15899149310731428
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.11916926183048572
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.17853958318607943
+			}
+		]
+	},
+	"0x933256556963EB4322165a665Dc3e61f4C9dCC93": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 1.06,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.255
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.275
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.255
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.275
+			}
+		]
+	},
+	"0x492534a1832F16aAD8B30CB29D613D611dB8c566": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.723762843399572,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.17411275949706684
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.18776866220271915
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.17411275949706684
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.18776866220271915
+			}
+		]
+	},
+	"0xdfA8ad5682161b4E7A6a28FE299Cfe9C4b9c5978": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.36,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bull",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.06
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.06
+			}
+		]
+	},
+	"0x95EB64ae8CEBb064b5cd68FB90ab819bb56fB794": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.0625,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.0045
+			},
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.012
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.014
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.012
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.01
+			}
+		]
+	},
+	"0xA1244af79C7428F4714E9260839f7E56A713209A": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.07037547887242912,
+		"rounds": [
+			{
+				"round": 206537,
+				"bet": "bear",
+				"betAmount": 0.01510328700527305
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.01985850006656367
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.016506556518275088
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.018907135282317307
+			}
+		]
+	},
+	"0x77a1cCf8cf4d55c1873B0d9D1e6db628325e18cc": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.003,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.003
+			}
+		]
+	},
+	"0x5993D16091daE01dF0fFda8DF7669F60A8401E14": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.1267394006437625,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.026863917174305516
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.022146237973957993
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.021602669688413508
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.032225410032620264
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.023901165774465195
+			}
+		]
+	},
+	"0xe42A8Ac761a8e66A89207fCb25F19836761E0d20": {
+		"roundsPlayed": 8,
+		"totalAmountBetted": 0.5280134641038633,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.03769376821043379
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.036862404654461285
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.09955685913311899
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.047889167708401265
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.04718244678130901
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.056698759699340906
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.055916276281126574
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.14621378163567147
+			}
+		]
+	},
+	"0xA0Bd4760d2604D4728aBdFbA6C5a47D65c3d21B6": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.174396701420932,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.06264531624474622
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.11175138517618578
+			}
+		]
+	},
+	"0xdfb995fdCe6D56437b6FaAAA79eB96Dc555098f5": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.2,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0xc39E4d81A76eE8fb0C0622D8629818F0464bdFcD": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.046,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.023
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.023
+			}
+		]
+	},
+	"0x0D9B818C59AA435F14116515afecf8e7Bff6d1e6": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.03596269132454935,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.008692848873445146
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.007487269625066422
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.00544355992441121
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.008581578480283769
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.005757434421342806
+			}
+		]
+	},
+	"0x0fEeBECF6f29fE84143eb5794664209E4EC930e4": {
+		"roundsPlayed": 5,
+		"totalAmountBetted": 0.11372115525811621,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.006937259325852132
+			},
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.031068950966334597
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.030711761966334596
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.01807271099983795
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.026930471999756928
+			}
+		]
+	},
+	"0xe4896D08D52BAfdA30FB3108BD2bF46c8b7ebeCD": {
+		"roundsPlayed": 7,
+		"totalAmountBetted": 0.07,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bull",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.01
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.01
+			}
+		]
+	},
+	"0x4eEB522a3c963Fd21A39dE1A8d945ed2e5d1e11D": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.7628355364815593,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.21335810491841742
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.05325022897960435
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.356173410936097
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.1400537916474406
+			}
+		]
+	},
+	"0x2111e670690786cC7615Fb270344c98D40b70364": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.2,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.1
+			}
+		]
+	},
+	"0x8a0b7a8C0646bcF5B48AAAE25cE486084009a619": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.6,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.3
+			},
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.3
+			}
+		]
+	},
+	"0xE025ce6667035D88009F15758D1EE10e92bC7Af5": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 0.4,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.15
+			}
+		]
+	},
+	"0xBbe19aA0b55aBca94F5990D3A0bCe6cF19fcddF9": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.125,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.025
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.075
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.025
+			}
+		]
+	},
+	"0x4E5ed829b40932218F38A7485Fd895b71DD5284f": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.345,
+		"rounds": [
+			{
+				"round": 206538,
+				"bet": "bear",
+				"betAmount": 0.08625
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.08625
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.08625
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.08625
+			}
+		]
+	},
+	"0x18B31f860CFddAE82e6851553C1FdD0E0b3dEaaB": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.2232950012801987,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.0732950012801987
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.05
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0x131ED61e2f4d759A54125699EF5EAe64f88976FC": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.9090375955652829,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.4941770792881355
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.4148605162771474
+			}
+		]
+	},
+	"0xFFAf600F2a2935bBAE8732cA2C2713A315fE1024": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.15,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bear",
+				"betAmount": 0.15
+			}
+		]
+	},
+	"0x27540335245B732c0B0e2577599C8eb9e5aA5D24": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.20900000000000002,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.069
+			}
+		]
+	},
+	"0x599ab33F40EB7F673A5dF515f5DA73f5a3Ffe992": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 0.12,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.03
+			}
+		]
+	},
+	"0xc2fa81eDF00A72dC05AE97Ab1c381856b12e0491": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.058713010803193987,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.058713010803193987
+			}
+		]
+	},
+	"0x338AfaeDB03Ad3714Dd8437417DAa8E7b94c605e": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.17,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.17
+			}
+		]
+	},
+	"0xD43B2b5c9838334B40efa83884388FD09a8F9c90": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.28174999999999994,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.09387
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.09394
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.09394
+			}
+		]
+	},
+	"0x47067F4Cf417629b9890da63ebA4BB07426D7118": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.04407087333348175,
+		"rounds": [
+			{
+				"round": 206539,
+				"bet": "bull",
+				"betAmount": 0.04407087333348175
+			}
+		]
+	},
+	"0xED18917c4af09Be7817e7798C33F0Db46bab2d62": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.2426547539105618,
+		"rounds": [
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.1445416395
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.09811311441056178
+			}
+		]
+	},
+	"0x86749f989A6217585839F38c8513f75aAAb1c6FC": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.13819629648670262,
+		"rounds": [
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.13819629648670262
+			}
+		]
+	},
+	"0x22e037965640e71cab63460A949dFb0cfF5ca1aD": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.08,
+		"rounds": [
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.08
+			}
+		]
+	},
+	"0x7cE2f6a0E329bb4e8b340636701C4650D8C8c672": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.39,
+		"rounds": [
+			{
+				"round": 206540,
+				"bet": "bear",
+				"betAmount": 0.1
+			},
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.19
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.1
+			}
+		]
+	},
+	"0x5eD2FD8348b771C0B26746182BC5795a6622711d": {
+		"roundsPlayed": 6,
+		"totalAmountBetted": 2.3600000000000003,
+		"rounds": [
+			{
+				"round": 206540,
+				"bet": "bull",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.3
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.55
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.5
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.25
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.26
+			}
+		]
+	},
+	"0x5C8E4658b92e8afF36fe6eb021cc5CeB3238Dd05": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.15,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.15
+			}
+		]
+	},
+	"0xb6D2476942F5A56170B9131349743E77dcb5Afd0": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.6392061831126572,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.16290670528984896
+			},
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.14658116156086407
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.32971831626194414
+			}
+		]
+	},
+	"0x904c00110831C42FE6a439cC6C3f0DFC9b582290": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.16512778354910954,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.16512778354910954
+			}
+		]
+	},
+	"0xf663B6c6999d4cb681DeA9DC6Eb077f3a99aDc48": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.2,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.2
+			}
+		]
+	},
+	"0xE14419C46f21DC0bDCd0DD6B80E318aAD87f2C71": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.04,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.04
+			}
+		]
+	},
+	"0x78C364563aDDe671742A045e5e51f499e1378AF0": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.010184904161416212,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.003678203289681229
+			},
+			{
+				"round": 206542,
+				"bet": "bull",
+				"betAmount": 0.002386862467260922
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.004119838404474061
+			}
+		]
+	},
+	"0xb110B9e8507141c7d3F12B1c9FD3A3f4E7895112": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.2,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bull",
+				"betAmount": 0.2
+			}
+		]
+	},
+	"0xcaD8694A3dFC09773DdfCC71C5D83d6Ed3e844Bf": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.08,
+		"rounds": [
+			{
+				"round": 206541,
+				"bet": "bear",
+				"betAmount": 0.04
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.04
+			}
+		]
+	},
+	"0xAb4DC696d2Bf74446ba6CEB414CD3741A95035ae": {
+		"roundsPlayed": 4,
+		"totalAmountBetted": 2.8523146839203486,
+		"rounds": [
+			{
+				"round": 206542,
+				"bet": "bear",
+				"betAmount": 0.8584647258124207
+			},
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.2575036988437262
+			},
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.579308964398384
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 1.1570372948658179
+			}
+		]
+	},
+	"0xb88506243c2f273B8dE9f8B2D88d8601E78c4589": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.19110124623047908,
+		"rounds": [
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.0820492378093046
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.040818816285981795
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.0682331921351927
+			}
+		]
+	},
+	"0x4D97acE0442dF507eBbeD23BFDC432D21DAACbA2": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.05096884261208279,
+		"rounds": [
+			{
+				"round": 206543,
+				"bet": "bear",
+				"betAmount": 0.020458974844833114
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.03050986776724967
+			}
+		]
+	},
+	"0x2d1503B838DA6Aa5E62e2b0c750c298443923C44": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.02547841526631773,
+		"rounds": [
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.02547841526631773
+			}
+		]
+	},
+	"0x4F237f1C6091B1e487f6d1402Ba959C5331402A9": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.21299999999999997,
+		"rounds": [
+			{
+				"round": 206543,
+				"bet": "bull",
+				"betAmount": 0.071
+			},
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.071
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.071
+			}
+		]
+	},
+	"0xC0AF709eEfe423ce52D22463Fa1934F68f8F3c59": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.001027472239357609,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.001027472239357609
+			}
+		]
+	},
+	"0xeA0663bA7F7001E25102b52A2ef98CF56DeFD962": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.4710687931909556,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.2608284519194076
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.21024034127154798
+			}
+		]
+	},
+	"0x9A84A2eE5CdC76815a364224662114b6045E4dC7": {
+		"roundsPlayed": 3,
+		"totalAmountBetted": 0.011,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.005
+			},
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.003
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.003
+			}
+		]
+	},
+	"0x5b89762a1a0dB16277C481C20f48DFEF25B418fd": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.12598266883303555,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.05253195347741378
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.07345071535562177
+			}
+		]
+	},
+	"0x2d2305D793b33B9635A8F3c1429FE0AB791b93F9": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.08,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.05
+			}
+		]
+	},
+	"0x395CF64BDbE18422EF9264A9c7E02E8d9FF382f5": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.6533567378974099,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bull",
+				"betAmount": 0.2839180513556086
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.36943868654180123
+			}
+		]
+	},
+	"0x125f33C889243a754Cb171481D4118607bcf5F5d": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.1201407040849396,
+		"rounds": [
+			{
+				"round": 206544,
+				"bet": "bear",
+				"betAmount": 0.06873687590567977
+			},
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.05140382817925983
+			}
+		]
+	},
+	"0xaf20a6D4d730D250e622d9f307e5Ee7b40388717": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.0111862305,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.0111862305
+			}
+		]
+	},
+	"0x20058460CAD13D81Af47Db2B9CBC67E217BA0E01": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.04,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.04
+			}
+		]
+	},
+	"0x3e1a0eeFb4B7d790f3bd134B5f9dFd095D16eFE3": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.001251735182064455,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.001251735182064455
+			}
+		]
+	},
+	"0x3B8FdF1f5043779cFF9fD12E0eeabbC60d831eCe": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.05,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.03
+			},
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.02
+			}
+		]
+	},
+	"0x3c50058543a841092075831de8485620bF32FA7F": {
+		"roundsPlayed": 2,
+		"totalAmountBetted": 0.04996042632697638,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.030576421974566028
+			},
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.019384004352410347
+			}
+		]
+	},
+	"0xcF01325fb973dB9DA518D679C7bf4BA999F99d94": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.008455289447166519,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bull",
+				"betAmount": 0.008455289447166519
+			}
+		]
+	},
+	"0xb537aA2FF36e98a580D696a0A98E64F17D976e3C": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.25,
+		"rounds": [
+			{
+				"round": 206545,
+				"bet": "bear",
+				"betAmount": 0.25
+			}
+		]
+	},
+	"0x399C0d2803C722A54C6b85AEF25B225D2CcadD47": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.08885571706511544,
+		"rounds": [
+			{
+				"round": 206546,
+				"bet": "bear",
+				"betAmount": 0.08885571706511544
+			}
+		]
+	},
+	"0x20B4376489D7b54c3c6d65bEc534F93a78AE6D0d": {
+		"roundsPlayed": 1,
+		"totalAmountBetted": 0.033,
+		"rounds": [
+			{
+				"round": 206546,
+				"bet": "bull",
+				"betAmount": 0.033
+			}
+		]
+	}
+}

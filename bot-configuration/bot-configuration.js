@@ -40,7 +40,7 @@ const GLOBAL_CONFIG = {
         * @default 50
         * @type {number}
         */
-        SIMULATION_BALANCE: 5000, // in USD
+        SIMULATION_BALANCE: 100, // in USD
         /**
          * Calculate the gas fee in simulation mode use this params for estimate gas functions (betBull, betBear, claim)
          * @default 90000
@@ -54,19 +54,19 @@ const GLOBAL_CONFIG = {
          * @default 1
          * @type {number}
          */
-        BET_AMOUNT: 50, // in USD
+        BET_AMOUNT: 1, // in USD
         /**
          * Defines the daily goal, if is reached the bot will stop
          * @default 50
          * @type {number}
          */
-        DAILY_GOAL: 500, // in USD
+        DAILY_GOAL: 50, // in USD
         /**
          * Defines the stop loss, if is reached the bot will stop
          * @default 50
          * @type {number}
          */
-        STOP_LOSS: 1000, // in USD
+        STOP_LOSS: 100, // in USD
         MARTINGALE_CONFIG: {
              /**
              * Flag that enabled Martingale/Anti-Martingale bet strategy
@@ -160,7 +160,7 @@ const GLOBAL_CONFIG = {
             * However, if during the last few seconds the volatility is high, you can increase the WAITING_TIME parameter  
             * @type {number}
             */
-           DELTA_PRICE_THRESHOLD: 0.2
+           DELTA_PRICE_THRESHOLD: 0.02
        }
     }
 };

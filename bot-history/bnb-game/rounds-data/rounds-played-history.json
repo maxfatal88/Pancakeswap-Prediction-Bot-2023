@@ -1,0 +1,53 @@
+[
+	{
+		"round": 206536,
+		"openPrice": 212.95231633,
+		"closePrice": 212.970907,
+		"bullAmount": 1.99005744587157,
+		"bearAmount": 2.878408892237329,
+		"bullPayout": 2.446,
+		"bearPayout": 1.691,
+		"validQuotes": true,
+		"totalAmount": 4.868466338108899,
+		"winner": "bull",
+		"bet": "bull",
+		"betAmount": 0.00469,
+		"betExecuted": true,
+		"txGasFee": 0.00027,
+		"txClaimGasFee": 0.00027
+	},
+	{
+		"round": 206538,
+		"openPrice": 213.05439478,
+		"closePrice": 212.9038,
+		"bullAmount": 3.9255906248358,
+		"bearAmount": 2.243972641345883,
+		"bullPayout": 1.572,
+		"bearPayout": 2.749,
+		"validQuotes": true,
+		"totalAmount": 6.169563266181683,
+		"winner": "bear",
+		"bet": "bear",
+		"betAmount": 0.0047,
+		"betExecuted": true,
+		"txGasFee": 0.00009,
+		"txClaimGasFee": 0.00009
+	},
+	{
+		"round": 206544,
+		"openPrice": 212.91597686,
+		"closePrice": 213.00169,
+		"bullAmount": 1.4165739076369137,
+		"bearAmount": 2.3860837996217485,
+		"bullPayout": 2.684,
+		"bearPayout": 1.594,
+		"validQuotes": true,
+		"totalAmount": 3.8026577072586623,
+		"winner": "bull",
+		"bet": "bear",
+		"betAmount": 0.0047,
+		"betExecuted": true,
+		"txGasFee": 0.00027,
+		"txClaimGasFee": 0
+	}
+]
